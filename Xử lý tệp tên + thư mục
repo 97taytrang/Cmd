@@ -1,0 +1,15 @@
++ Thêm ký tự vào tệp hàng hoạt
+ren 84 *. * +84 *. *
+
++ Bước 1: Mở Cmd tại vị trí cần lấy tệp tên + thư mục
++ Bước 2: enter for get file name
+dir / ad / b
+
++ Bước 2.2: enter for get directory
+dir / b
+
++ Bước 3: enter for get file name
+dir / ad / b> tenfilexuat.txt
+
++ Bước 3.3: enter for get directory
+dir / b> tenfilexuat.txt
