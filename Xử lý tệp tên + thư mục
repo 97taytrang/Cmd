@@ -13,3 +13,9 @@ dir / ad / b> tenfilexuat.txt
 
 + Bước 3.3: enter for get directory
 dir / b> tenfilexuat.txt
+
++ tắt mạng lan
+wmic path win32_networkadapter where index=2 call disable
+
++ bật mạng lan
+wmic path win32_networkadapter where index=2 call enable
